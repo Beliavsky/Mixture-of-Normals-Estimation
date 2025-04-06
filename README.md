@@ -1,5 +1,5 @@
 # Mixture-of-Normals-Estimation
-Estimate a mixture of normals distribution using moments and the EM algorithm
+Estimate a univariate mixture of normals distribution using moments and the EM algorithm
 
 Output:
 
