@@ -1,7 +1,7 @@
 # Mixture-of-Normals-Estimation
 Estimate a univariate mixture of normals distribution using moments and the EM algorithm
 
-Output:
+Output of `xfit_normal_mix_moments_em.py`:
 
 ```
 Number of samples simulated: 100000
